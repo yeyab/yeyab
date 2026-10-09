@@ -116,22 +116,7 @@ When I'm not coding, you'll probably find me:
 - 💼 **LinkedIn**: [Nolan Horner](https://www.linkedin.com/in/nolan-horner-114163339/)
 - 📧 **Email**: [nolanhorner770@gmail.com](mailto:nolanhorner770@gmail.com)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeyab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeyab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeyab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-<p align="center">
-  <i>"AI isn't here to replace humans — it's here to give them back time and clarity."</i>
-</p>
